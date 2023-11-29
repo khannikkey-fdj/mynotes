@@ -9,19 +9,14 @@
 /build/
 
 # iOS specific
-ios/Pods/
-ios/.symlinks/
-ios/Flutter/Flutter.framework/
-ios/Flutter/Flutter.podspec
+ios/
+
+web/
+
+windows/
 
 # Android specific
-android/.gradle/
-android/app/build/
-android/build/
-android/gradle/
-android/gradlew
-android/gradlew.bat
-android/local.properties
+android/
 
 # Generated files
 *.log
