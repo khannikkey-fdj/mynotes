@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671117420189",
+    "project_id": "mynotes-bda5a",
+    "storage_bucket": "mynotes-bda5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671117420189:android:54c557d3f0e1794c10d674",
+        "android_client_info": {
+          "package_name": "com.codine.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUb99pblSX32ZvC1E-IorTHxQ3JKWXdBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

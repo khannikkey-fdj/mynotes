@@ -1,0 +1,50 @@
+# Flutter/Dart specific
+*.iml
+.idea/
+.vscode/
+*.flutter-plugins
+*.flutter-plugins-dependencies
+/.dart_tool/
+/.pub/
+/build/
+
+# iOS specific
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+
+# Android specific
+android/.gradle/
+android/app/build/
+android/build/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+
+# Generated files
+*.log
+*.log.*
+*.stackdump
+*.flutter-plugins
+
+# VS Code specific files
+.vscode/
+
+# Android Studio specific files
+.idea/
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+
+# Linux specific files
+*~
