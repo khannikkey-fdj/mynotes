@@ -10,11 +10,8 @@
 
 # iOS specific
 ios/
-
 web/
-
 windows/
-
 # Android specific
 android/
 
